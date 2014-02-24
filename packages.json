@@ -1,0 +1,89 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "AlignTab",
+            "description": "An alignment plugin using regular expression",
+            "author": "randy3k",
+            "details": "https://github.com/randy3k/AlignTab",
+            "releases": [
+                {
+                    "sublime_text": "<3000",
+                    "version": "1.2.1",
+                    "url": "https://codeload.github.com/randy3k/AlignTab/zip/1.2.1",
+                    "date": "2014-02-23 23:00:00"
+                },
+                {
+                    "sublime_text": ">=3000",
+                    "version": "2.0.1",
+                    "url": "https://codeload.github.com/randy3k/AlignTab/zip/2.0.1",
+                    "date": "2014-02-23 21:30:00"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/randy3k/AutoWrap",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/AutoWrap/tags"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/randy3k/ChangeList",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/ChangeList/tags"
+                }
+            ],
+            "previous_names": [
+                "Change List (Last Edit)"
+            ]
+        },
+        {
+            "name": "LaTeXSQ",
+            "details": "https://github.com/randy3k/LaTeXSQ",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/randy3k/LaTeXSQ/tags"
+                }
+            ],
+            "previous_names": ["LaTeXSq"]
+        },
+        {
+            "name": "LaTeXTab",
+            "details": "https://github.com/randy3k/LaTeXTab",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/LaTeXTab/tags"
+                }
+            ]
+        },
+        {
+            "details": "https://github.com/randy3k/Enhanced-R",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/Enhanced-R/tags"
+                }
+            ],
+            "previous_names": [
+                "Enhanced R"
+            ]
+        },
+        {
+            "name": "Syntax Manager",
+            "details": "https://github.com/randy3k/SyntaxMgr",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/SyntaxMgr/tags"
+                }
+            ]
+        }
+    ]
+}
