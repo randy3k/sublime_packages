@@ -62,6 +62,16 @@
             ]
         },
         {
+            "name": "UnitTesting",
+            "details": "https://github.com/randy3k/UnitTesting",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/UnitTesting/tags"
+                }
+            ]
+        },        
+        {
             "details": "https://github.com/randy3k/Enhanced-R",
             "releases": [
                 {
