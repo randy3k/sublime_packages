@@ -84,6 +84,15 @@
             ]
         },
         {
+            "details": "https://github.com/randy3k/R-Box",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "details": "https://github.com/randy3k/R-Box/tags"
+                }
+            ]
+        },        
+        {
             "name": "Syntax Manager",
             "details": "https://github.com/randy3k/SyntaxMgr",
             "releases": [
