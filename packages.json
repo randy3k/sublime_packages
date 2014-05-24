@@ -41,15 +41,15 @@
             ]
         },
         {
-            "name": "LaTeXSQ",
-            "details": "https://github.com/randy3k/LaTeXSQ",
+            "name": "LaTeX-Plus",
+            "details": "https://github.com/randy3k/LaTeX-Plus",
             "releases": [
                 {
                     "sublime_text": ">=3000",
-                    "details": "https://github.com/randy3k/LaTeXSQ/tags"
+                    "details": "https://github.com/randy3k/LaTeX-Plus/tags"
                 }
             ],
-            "previous_names": ["LaTeXSq"]
+            "previous_names": ["LaTeXSq", "LaTeXSQ"]
         },
         {
             "name": "LaTeXTab",
