@@ -104,6 +104,16 @@
             ]
         },
         {
+            "name": "Whitespace",
+            "details": "https://github.com/randy3k/Whitespace",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "details": "https://github.com/randy3k/Whitespace/tags"
+                }
+            ]
+        },        
+        {
             "name": "Wombat Extended",
             "details": "https://github.com/randy3k/Wombat-Extended",
             "releases": [
