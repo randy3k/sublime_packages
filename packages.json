@@ -91,7 +91,7 @@
       "releases": [
         {
           "sublime_text": "<3000",
-          "version": "0.0.1",
+          "version": "0.0.3",
           "url": "https://codeload.github.com/randy3k/R-Box/zip/0.0.3",
           "date": "2014-07-26 01:00:00"
         },
