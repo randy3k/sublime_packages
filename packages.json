@@ -35,9 +35,6 @@
           "sublime_text": "*",
           "details": "https://github.com/randy3k/ChangeList/tags"
         }
-      ],
-      "previous_names": [
-        "Change List (Last Edit)"
       ]
     },
     {
@@ -48,10 +45,6 @@
           "sublime_text": ">=3000",
           "details": "https://github.com/randy3k/LaTeX-Plus/tags"
         }
-      ],
-      "previous_names": [
-        "LaTeXSq",
-        "LaTeXSQ"
       ]
     },
     {
@@ -81,9 +74,6 @@
           "sublime_text": "*",
           "details": "https://github.com/randy3k/Enhanced-R/tags"
         }
-      ],
-      "previous_names": [
-        "Enhanced R"
       ]
     },
     {
@@ -99,9 +89,6 @@
           "sublime_text": ">=3000",
           "details": "https://github.com/randy3k/R-Box/tags"
         }
-      ],
-      "labels": [
-        "Enhanced R"
       ]
     },
     {
