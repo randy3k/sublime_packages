@@ -92,6 +92,16 @@
       ]
     },
     {
+      "name": "Simple Project Manager",
+      "details": "https://github.com/randy3k/Simple-Project-Manager",
+      "releases": [
+        {
+          "sublime_text": ">3000",
+          "details": "https://github.com/randy3k/Simple-Project-Manager/tags"
+        }
+      ]
+    },    
+    {
       "name": "Syntax Manager",
       "details": "https://github.com/randy3k/SyntaxMgr",
       "releases": [
