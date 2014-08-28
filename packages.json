@@ -92,12 +92,12 @@
       ]
     },
     {
-      "name": "Simple Project Manager",
-      "details": "https://github.com/randy3k/Simple-Project-Manager",
+      "name": "Project Manager",
+      "details": "https://github.com/randy3k/Project-Manager",
       "releases": [
         {
           "sublime_text": ">3000",
-          "details": "https://github.com/randy3k/Simple-Project-Manager/tags"
+          "details": "https://github.com/randy3k/Project-Manager/tags"
         }
       ]
     },    
