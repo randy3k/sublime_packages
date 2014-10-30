@@ -20,6 +20,16 @@
       ]
     },
     {
+      "name": "Auto Match Enabled",
+      "details": "https://github.com/randy3k/Auto-Match-Enabled",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/randy3k/Auto-Match-Enabled/tags"
+        }
+      ]
+    },    
+    {
       "details": "https://github.com/randy3k/AutoWrap",
       "releases": [
         {
