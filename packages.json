@@ -109,6 +109,7 @@
     },
     {
       "name": "Project Manager",
+      "previous_names": ["Simple Project Manager"],
       "details": "https://github.com/randy3k/Project-Manager",
       "releases": [
         {
