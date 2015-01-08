@@ -149,7 +149,8 @@
       ]
     },
     {
-      "name": "Wombat Extended",
+      "name": "Wombat Color Scheme",
+      "previous_names": ["Wombat Extended"],
       "details": "https://github.com/randy3k/Wombat-Extended",
       "releases": [
         {
