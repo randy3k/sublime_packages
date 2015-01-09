@@ -151,11 +151,11 @@
     {
       "name": "Wombat Color Scheme",
       "previous_names": ["Wombat Extended"],
-      "details": "https://github.com/randy3k/Wombat-Extended",
+      "details": "https://github.com/randy3k/Wombat",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/Wombat-Extended/tree/master"
+          "details": "https://github.com/randy3k/Wombat/tree/master"
         }
       ],
       "labels": [
