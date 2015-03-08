@@ -93,15 +93,8 @@
       ]
     },
     {
-      "details": "https://github.com/randy3k/Enhanced-R",
-      "releases": [
-        {
-          "sublime_text": "*",
-          "details": "https://github.com/randy3k/Enhanced-R/tags"
-        }
-      ]
-    },
-    {
+      "name": "R-Box",
+      "previous_names": ["Enhanced-R"],
       "details": "https://github.com/randy3k/R-Box",
       "releases": [
         {
