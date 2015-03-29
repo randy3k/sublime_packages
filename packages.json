@@ -32,13 +32,11 @@
       "releases": [
         {
           "sublime_text": "<3000",
-          "version": "1.0.5",
-          "url": "https://codeload.github.com/randy3k/AutoWrap/zip/1.0.5",
-          "date": "2014-11-01 15:00:00"
+          "tags": "st2-"
         },
         {
           "sublime_text": ">=3000",
-          "tags": true
+          "tags": "st3-"
         }
       ]
     },
