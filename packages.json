@@ -1,11 +1,11 @@
 {
-  "schema_version": "2.0",
+  "schema_version": "3.0.0",
   "packages": [
     {
       "name": "AlignTab",
+      "details": "https://github.com/randy3k/AlignTab",
       "description": "An alignment plugin using regular expression",
       "author": "randy3k",
-      "details": "https://github.com/randy3k/AlignTab",
       "releases": [
         {
           "sublime_text": "<3000",
@@ -15,7 +15,7 @@
         },
         {
           "sublime_text": ">=3000",
-          "details": "https://github.com/randy3k/AlignTab/tags"
+          "tags": true
         }
       ]
     },
@@ -25,10 +25,10 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/Auto-Match-Enabled/tags"
+          "tags": true
         }
       ]
-    },    
+    },
     {
       "details": "https://github.com/randy3k/AutoWrap",
       "releases": [
@@ -40,7 +40,7 @@
         },
         {
           "sublime_text": ">=3000",
-          "details": "https://github.com/randy3k/AutoWrap/tags"
+          "tags": true
         }
       ]
     },
@@ -49,7 +49,7 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/ChangeList/tags"
+          "tags": true
         }
       ]
     },
@@ -58,17 +58,17 @@
       "releases": [
         {
           "sublime_text": ">=3000",
-          "details": "https://github.com/randy3k/Git-StatusBar/tags"
+          "tags": true
         }
       ]
-    },    
+    },
     {
       "name": "LaTeX-Plus",
       "details": "https://github.com/randy3k/LaTeX-Plus",
       "releases": [
         {
           "sublime_text": ">=3000",
-          "details": "https://github.com/randy3k/LaTeX-Plus/tags"
+          "tags": true
         }
       ]
     },
@@ -78,7 +78,7 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/LaTeXTab/tags"
+          "tags": true
         }
       ]
     },
@@ -88,29 +88,29 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/UnitTesting/tags"
+          "tags": true
         }
       ]
     },
     {
       "name": "R-Box",
-      "previous_names": ["Enhanced-R"],
       "details": "https://github.com/randy3k/R-Box",
+      "previous_names": ["Enhanced-R"],
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/R-Box/tags"
+          "tags": true
         }
       ]
     },
     {
       "name": "Project Manager",
-      "previous_names": ["Simple Project Manager"],
       "details": "https://github.com/randy3k/Project-Manager",
+      "previous_names": ["Simple Project Manager"],
       "releases": [
         {
           "sublime_text": ">3000",
-          "details": "https://github.com/randy3k/Project-Manager/tags"
+          "tags": true
         }
       ]
     },
@@ -120,17 +120,17 @@
       "releases": [
         {
           "sublime_text": ">3000",
-          "details": "https://github.com/randy3k/SendTextPlus/tags"
+          "tags": true
         }
       ]
-    },    
+    },
     {
       "name": "Syntax Manager",
       "details": "https://github.com/randy3k/SyntaxMgr",
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/SyntaxMgr/tags"
+          "tags": true
         }
       ]
     },
@@ -140,22 +140,20 @@
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/Whitespace/tags"
+          "tags": true
         }
       ]
     },
     {
       "name": "Wombat Color Scheme",
-      "previous_names": ["Wombat Extended"],
       "details": "https://github.com/randy3k/Wombat",
+      "labels": ["color scheme"],
+      "previous_names": ["Wombat Extended"],
       "releases": [
         {
           "sublime_text": "*",
-          "details": "https://github.com/randy3k/Wombat/tree/master"
+          "branch": "master"
         }
-      ],
-      "labels": [
-        "color scheme"
       ]
     }
   ]
