@@ -107,8 +107,9 @@
       ]
     },
     {
-      "name": "SendTextPlus",
-      "details": "https://github.com/randy3k/SendTextPlus",
+      "name": "SendText+",
+      "details": "https://github.com/randy3k/SendText+",
+      "previous_names": ["SendTextPlus"],
       "releases": [
         {
           "sublime_text": ">3000",
