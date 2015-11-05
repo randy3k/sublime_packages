@@ -108,7 +108,7 @@
     },
     {
       "name": "SendText+",
-      "details": "https://github.com/randy3k/SendText+",
+      "details": "https://github.com/randy3k/SendTextPlus",
       "previous_names": ["SendTextPlus"],
       "releases": [
         {
