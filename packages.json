@@ -100,13 +100,13 @@
           "tags": "st2-"
         },
         {
-          "sublime_text": "<3100",
+          "sublime_text": "3000 - 3100",
           "version": "2.9.6",
           "url": "https://codeload.github.com/randy3k/R-Box/zip/st3-2.9.6",
           "date": "2015-12-17 00:00:00"
         },
         {
-          "sublime_text": ">=3100",
+          "sublime_text": ">3100",
           "tags": "st3-"
         }
       ]
