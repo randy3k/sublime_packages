@@ -2,12 +2,12 @@
   "schema_version": "3.0.0",
   "dependencies": [
 		{
-			"name": "zmq",
+			"name": "pyzmq",
 			"load_order": "02",
 			"description": "Python zmq module",
 			"releases": [
 				{
-					"base": "https://github.com/randy3k/sublime-zmq",
+					"base": "https://github.com/randy3k/sublime-pyzmq",
 					"tags": true,
 					"sublime_text": ">3000"
 				}
