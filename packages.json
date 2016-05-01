@@ -161,5 +161,19 @@
         }
       ]
     }
-  ]
+  ],
+  "dependencies": [
+		{
+			"name": "zmq",
+			"load_order": "02",
+			"description": "Python zmq module",
+			"releases": [
+				{
+					"base": "https://github.com/randy3k/sublime-zmq",
+					"tags": true,
+					"sublime_text": ">3000"
+				}
+			]
+		}
+	]
 }
