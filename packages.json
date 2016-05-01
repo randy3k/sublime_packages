@@ -2,7 +2,7 @@
   "schema_version": "3.0.0",
   "dependencies": [
 		{
-			"name": "zmq",
+			"name": "pyzmq",
 			"load_order": "02",
 			"description": "Python zmq module",
 			"author": "randy3k",
