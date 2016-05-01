@@ -5,6 +5,7 @@
 			"name": "pyzmq",
 			"load_order": "02",
 			"description": "Python zmq module",
+			"author": "randy3k",
 			"releases": [
 				{
 					"base": "https://github.com/randy3k/sublime-pyzmq",
