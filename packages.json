@@ -16,6 +16,20 @@
 			]
 		},
 		{
+			"name": "enum",
+			"load_order": "6",
+			"description": "Jupyter client module",
+			"author": "randy3k",
+			"issues": "https://github.com/randy3k/sublime-enum/issues",
+			"releases": [
+				{
+					"base": "https://github.com/randy3k/sublime-enum",
+					"branch": "master",
+					"sublime_text": ">3000"
+				}
+			]
+		},
+		{
 			"name": "jupyter_client",
 			"load_order": "10",
 			"description": "Jupyter client module",
