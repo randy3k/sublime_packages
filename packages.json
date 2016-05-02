@@ -16,6 +16,20 @@
 			]
 		},
 		{
+			"name": "decorator",
+			"load_order": "06",
+			"description": "Jupyter client module",
+			"author": "randy3k",
+			"issues": "https://github.com/randy3k/sublime-decorator/issues",
+			"releases": [
+				{
+					"base": "https://github.com/randy3k/sublime-decorator",
+					"tags": true,
+					"sublime_text": ">3000"
+				}
+			]
+		},
+		{
 			"name": "six",
 			"load_order": "06",
 			"description": "Jupyter client module",
