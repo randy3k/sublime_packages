@@ -14,62 +14,6 @@
 					"sublime_text": ">3000"
 				}
 			]
-		},
-		{
-			"name": "decorator",
-			"load_order": "06",
-			"description": "Jupyter client module",
-			"author": "randy3k",
-			"issues": "https://github.com/randy3k/sublime-decorator/issues",
-			"releases": [
-				{
-					"base": "https://github.com/randy3k/sublime-decorator",
-					"tags": true,
-					"sublime_text": ">3000"
-				}
-			]
-		},
-		{
-			"name": "six",
-			"load_order": "06",
-			"description": "Jupyter client module",
-			"author": "randy3k",
-			"issues": "https://github.com/randy3k/sublime-six/issues",
-			"releases": [
-				{
-					"base": "https://github.com/randy3k/sublime-six",
-					"tags": true,
-					"sublime_text": ">3000"
-				}
-			]
-		},
-		{
-			"name": "enum",
-			"load_order": "07",
-			"description": "Jupyter client module",
-			"author": "randy3k",
-			"issues": "https://github.com/randy3k/sublime-enum/issues",
-			"releases": [
-				{
-					"base": "https://github.com/randy3k/sublime-enum",
-					"branch": "master",
-					"sublime_text": ">3000"
-				}
-			]
-		},
-		{
-			"name": "jupyter_client",
-			"load_order": "10",
-			"description": "Jupyter client module",
-			"author": "randy3k",
-			"issues": "https://github.com/randy3k/sublime-jupyter/issues",
-			"releases": [
-				{
-					"base": "https://github.com/randy3k/sublime-jupyter",
-					"branch": "master",
-					"sublime_text": ">3000"
-				}
-			]
 		}
 	]
 }
