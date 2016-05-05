@@ -11,8 +11,7 @@
 				{
 					"base": "https://github.com/randy3k/sublime-pyzmq",
 					"branch": "master",
-					"sublime_text": ">3000",
-					"platforms": ["osx-x64", "linux-x64", "windows-x64"]
+					"sublime_text": ">3000"
 				}
 			]
 		}
