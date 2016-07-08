@@ -55,6 +55,15 @@
       ]
     },
     {
+      "details": "https://github.com/randy3k/Julia-UTF8",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },    
+    {
       "name": "LaTeX-Plus",
       "details": "https://github.com/randy3k/LaTeX-Plus",
       "releases": [
