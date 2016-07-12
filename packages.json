@@ -92,6 +92,16 @@
       ]
     },
     {
+      "name": "ModuleReloader",
+      "details": "https://github.com/randy3k/ModuleReloader",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
       "name": "UnitTesting",
       "details": "https://github.com/randy3k/UnitTesting",
       "releases": [
