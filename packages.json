@@ -2,14 +2,14 @@
   "schema_version": "3.0.0",
   "dependencies": [
 		{
-			"name": "pyzmq",
+			"name": "xdotool",
 			"load_order": "50",
-			"description": "Python zmq module",
+			"description": "xdotool binary",
 			"author": "randy3k",
-			"issues": "https://github.com/randy3k/sublime-pyzmq/issues",
+			"issues": "https://github.com/randy3k/sublime-xdotool/issues",
 			"releases": [
 				{
-					"base": "https://github.com/randy3k/sublime-pyzmq",
+					"base": "https://github.com/randy3k/sublime-xdotool",
 					"branch": "master",
 					"sublime_text": ">3000"
 				}
