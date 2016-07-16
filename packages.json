@@ -16,7 +16,7 @@
 			]
 		},
 		{
-			"name": "pywin32",
+			"name": "python-pywin32",
 			"load_order": "50",
 			"description": "pywin32 library",
 			"author": "randy3k",
