@@ -130,8 +130,8 @@
     },
     {
       "name": "Project Manager",
-      "details": "https://github.com/randy3k/ProjectManager",
-      "previous_names": ["Simple Project Manager"],
+      "details": "https://github.com/randy3k/Project-Manager",
+      "previous_names": ["Simple Project Manager", "ProjectManager"],
       "releases": [
         {
           "sublime_text": ">3000",
