@@ -55,9 +55,9 @@
       ]
     },
     {
-      "name": "JuliaUnicode",
-      "details": "https://github.com/randy3k/JuliaUnicode",
-      "previous_names": ["Julia-UTF8", "Julia-Unicode"],
+      "name": "Julia Unicode",
+      "details": "https://github.com/randy3k/Julia-Unicode",
+      "previous_names": ["Julia-UTF8", "Julia-Unicode", "JuliaUnicode"],
       "releases": [
         {
           "sublime_text": ">=3000",
