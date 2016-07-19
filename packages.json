@@ -151,6 +151,16 @@
       ]
     },
     {
+      "name": "SendREPL",
+      "details": "https://github.com/randy3k/SendREPL",
+      "releases": [
+        {
+          "sublime_text": ">3000",
+          "tags": true
+        }
+      ]
+    },
+    {
       "name": "Syntax Manager",
       "details": "https://github.com/randy3k/SyntaxMgr",
       "releases": [
