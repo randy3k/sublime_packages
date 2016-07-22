@@ -92,8 +92,9 @@
       ]
     },
     {
-      "name": "ModuleReloader",
-      "details": "https://github.com/randy3k/ModuleReloader",
+      "name": "PackageReloader",
+      "details": "https://github.com/randy3k/PackageReloader",
+      "previous_names": ["ModuleReloader"],
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -102,11 +103,12 @@
       ]
     },
     {
-      "name": "UnitTesting",
-      "details": "https://github.com/randy3k/UnitTesting",
+      "name": "Project Manager",
+      "details": "https://github.com/randy3k/Project-Manager",
+      "previous_names": ["Simple Project Manager", "ProjectManager"],
       "releases": [
         {
-          "sublime_text": "*",
+          "sublime_text": ">3000",
           "tags": true
         }
       ]
@@ -124,17 +126,6 @@
         },
         {
           "sublime_text": ">=3103",
-          "tags": true
-        }
-      ]
-    },
-    {
-      "name": "Project Manager",
-      "details": "https://github.com/randy3k/Project-Manager",
-      "previous_names": ["Simple Project Manager", "ProjectManager"],
-      "releases": [
-        {
-          "sublime_text": ">3000",
           "tags": true
         }
       ]
@@ -163,6 +154,16 @@
     {
       "name": "Syntax Manager",
       "details": "https://github.com/randy3k/SyntaxMgr",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
+      "name": "UnitTesting",
+      "details": "https://github.com/randy3k/UnitTesting",
       "releases": [
         {
           "sublime_text": "*",
