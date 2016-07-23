@@ -73,13 +73,7 @@
       "previous_names": ["LaTeX-Plus"],
       "releases": [
         {
-          "sublime_text": "3000 - 3102",
-          "version": "2.4.4",
-          "url": "https://codeload.github.com/randy3k/LaTeX-Plus/zip/2.4.4",
-          "date": "2015-01-19 14:00:00"
-        },
-        {
-          "sublime_text": ">=3103",
+          "sublime_text": ">=3000",
           "tags": true
         }
       ]
