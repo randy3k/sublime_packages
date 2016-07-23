@@ -152,8 +152,9 @@
       ]
     },
     {
-      "name": "Syntax Manager",
-      "details": "https://github.com/randy3k/SyntaxMgr",
+      "name": "SyntaxManager",
+      "details": "https://github.com/randy3k/SyntaxManager",
+      "previous_names": ["Syntax Manager"],
       "releases": [
         {
           "sublime_text": "*",
