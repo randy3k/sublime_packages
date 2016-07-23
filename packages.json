@@ -18,8 +18,9 @@
       ]
     },
     {
-      "name": "Auto Match Enabled",
-      "details": "https://github.com/randy3k/Auto-Match-Enabled",
+      "name": "AutoMatchEnabled",
+      "details": "https://github.com/randy3k/AutoMatchEnabled",
+      "previous_names": ["Auto Match Enabled"],
       "releases": [
         {
           "sublime_text": "*",
@@ -46,7 +47,8 @@
       ]
     },
     {
-      "details": "https://github.com/randy3k/Git-StatusBar",
+      "details": "https://github.com/randy3k/GitStatusBar",
+      "previous_names": ["Git-StatusBar"],
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -55,9 +57,9 @@
       ]
     },
     {
-      "name": "Julia Unicode",
-      "details": "https://github.com/randy3k/Julia-Unicode",
-      "previous_names": ["Julia-UTF8", "Julia-Unicode", "JuliaUnicode"],
+      "name": "JuliaUnicode",
+      "details": "https://github.com/randy3k/JuliaUnicode",
+      "previous_names": ["Julia-UTF8", "Julia-Unicode", "Julia Unicode"],
       "releases": [
         {
           "sublime_text": ">=3000",
