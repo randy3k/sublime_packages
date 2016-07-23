@@ -68,8 +68,9 @@
       ]
     },    
     {
-      "name": "LaTeX-Plus",
-      "details": "https://github.com/randy3k/LaTeX-Plus",
+      "name": "LaTeXPlus",
+      "details": "https://github.com/randy3k/LaTeXPlus",
+      "previous_names": ["LaTeX-Plus"],
       "releases": [
         {
           "sublime_text": "3000 - 3102",
