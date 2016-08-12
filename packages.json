@@ -59,7 +59,7 @@
     {
       "name": "UnicodeCompletion",
       "details": "https://github.com/randy3k/UnicodeCompletion",
-      "previous_names": ["Julia-UTF8", "Julia-Unicode", "Julia Unicode"],
+      "previous_names": ["Julia-UTF8", "Julia-Unicode", "Julia Unicode", "JuliaUnicode"],
       "releases": [
         {
           "sublime_text": ">=3000",
