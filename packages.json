@@ -68,9 +68,9 @@
       ]
     },    
     {
-      "name": "LaTeXPlus",
+      "name": "LaTeXBox",
       "details": "https://github.com/randy3k/LaTeXBox",
-      "previous_names": ["LaTeX-Plus"],
+      "previous_names": ["LaTeX-Plus", "LaTeXPlus"],
       "releases": [
         {
           "sublime_text": "3000 - 3118",
