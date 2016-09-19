@@ -4,7 +4,6 @@
     {
       "name": "AlignTab",
       "details": "https://github.com/randy3k/AlignTab",
-      "description": "An alignment plugin using regular expression",
       "author": "randy3k",
       "releases": [
         {
