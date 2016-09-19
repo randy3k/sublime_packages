@@ -72,7 +72,7 @@
       "previous_names": ["LaTeX-Plus", "LaTeXPlus"],
       "releases": [
         {
-          "sublime_text": "3000 - 3118",
+          "sublime_text": ">=3000",
           "version": "2.5.0",
           "url": "https://codeload.github.com/randy3k/LaTeXBox/zip/2.5.0",
           "date": "2016-07-23 00:00:00"
