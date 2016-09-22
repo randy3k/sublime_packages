@@ -127,7 +127,13 @@
           "date": "2015-12-17 00:00:00"
         },
         {
-          "sublime_text": ">=3103",
+          "sublime_text": "3103 - 3119",
+          "version": "3.1.3",
+          "url": "https://codeload.github.com/randy3k/R-Box/zip/3.1.3",
+          "date": "2016-07-19 00:00:00"
+        },
+        {
+          "sublime_text": ">3119",
           "tags": true
         }
       ]
