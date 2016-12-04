@@ -88,6 +88,16 @@
       ]
     },
     {
+      "name": "LaTeXZeta",
+      "details": "https://github.com/randy3k/LaTeXZeta",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "tags": true
+        }
+      ]
+    },
+    {
       "name": "PackageReloader",
       "details": "https://github.com/randy3k/PackageReloader",
       "previous_names": ["ModuleReloader"],
