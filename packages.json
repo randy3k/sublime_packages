@@ -72,12 +72,6 @@
       "previous_names": ["LaTeX-Plus", "LaTeXPlus"],
       "releases": [
         {
-          "sublime_text": "3000 - 3118",
-          "version": "2.5.1",
-          "url": "https://codeload.github.com/randy3k/LaTeXBox/zip/2.5.1",
-          "date": "2016-09-20 18:00:00"
-        },
-        {
           "sublime_text": ">=3119",
           "tags": true
         }
@@ -125,12 +119,6 @@
           "version": "2.9.6",
           "url": "https://codeload.github.com/randy3k/R-Box/zip/2.9.6",
           "date": "2015-12-17 00:00:00"
-        },
-        {
-          "sublime_text": "3103 - 3119",
-          "version": "3.1.3",
-          "url": "https://codeload.github.com/randy3k/R-Box/zip/3.1.3",
-          "date": "2016-07-19 00:00:00"
         },
         {
           "sublime_text": ">3119",
