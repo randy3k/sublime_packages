@@ -28,6 +28,17 @@
       ]
     },
     {
+      "name": "AutomaticPackageReloader",
+      "details": "https://github.com/randy3k/AutomaticPackageReloader",
+      "previous_names": ["PackageReloader", "ModuleReloader"],
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    },
+    {
       "details": "https://github.com/randy3k/AutoWrap",
       "releases": [
         {
@@ -93,17 +104,6 @@
       "releases": [
         {
           "sublime_text": "*",
-          "tags": true
-        }
-      ]
-    },
-    {
-      "name": "PackageReloader",
-      "details": "https://github.com/randy3k/PackageReloader",
-      "previous_names": ["ModuleReloader"],
-      "releases": [
-        {
-          "sublime_text": ">=3000",
           "tags": true
         }
       ]
