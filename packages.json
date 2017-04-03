@@ -30,7 +30,7 @@
     {
       "name": "AutomaticPackageReloader",
       "details": "https://github.com/randy3k/AutomaticPackageReloader",
-      "previous_names": ["PackageReloader", "ModuleReloader"],
+      "previous_names": ["PackageReloader"],
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -58,7 +58,6 @@
     },
     {
       "details": "https://github.com/randy3k/GitStatusBar",
-      "previous_names": ["Git-StatusBar"],
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -69,7 +68,6 @@
     {
       "name": "UnicodeCompletion",
       "details": "https://github.com/randy3k/UnicodeCompletion",
-      "previous_names": ["Julia-UTF8", "Julia-Unicode", "Julia Unicode", "JuliaUnicode"],
       "releases": [
         {
           "sublime_text": ">=3000",
@@ -111,7 +109,7 @@
     {
       "name": "ProjectManager",
       "details": "https://github.com/randy3k/ProjectManager",
-      "previous_names": ["Simple Project Manager", "Project Manager"],
+      "previous_names": ["Project Manager"],
       "releases": [
         {
           "sublime_text": ">3000",
@@ -122,7 +120,6 @@
     {
       "name": "R-Box",
       "details": "https://github.com/randy3k/R-Box",
-      "previous_names": ["Enhanced-R"],
       "releases": [
         {
           "sublime_text": "<3103",
@@ -139,7 +136,7 @@
     {
       "name": "SendCode",
       "details": "https://github.com/randy3k/SendCode",
-      "previous_names": ["SendText+", "SendTextPlus", "SendREPL"],
+      "previous_names": ["SendTextPlus", "SendREPL"],
       "releases": [
         {
           "sublime_text": ">3000",
@@ -150,7 +147,6 @@
     {
       "name": "SyntaxManager",
       "details": "https://github.com/randy3k/SyntaxManager",
-      "previous_names": ["Syntax Manager"],
       "releases": [
         {
           "sublime_text": "*",
@@ -182,7 +178,6 @@
       "name": "Wombat Color Scheme",
       "details": "https://github.com/randy3k/Wombat",
       "labels": ["color scheme"],
-      "previous_names": ["Wombat Extended"],
       "releases": [
         {
           "sublime_text": "*",
