@@ -80,7 +80,6 @@
     {
       "name": "LaTeXBox",
       "details": "https://github.com/randy3k/LaTeXBox",
-      "previous_names": ["LaTeX-Plus", "LaTeXPlus"],
       "releases": [
         {
           "sublime_text": ">=3119",
