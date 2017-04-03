@@ -99,8 +99,9 @@
       ]
     },
     {
-      "name": "LaTeXZeta",
-      "details": "https://github.com/randy3k/LaTeXZeta",
+      "name": "LaTeXYZ",
+      "details": "https://github.com/randy3k/LaTeXYZ",
+      "previous_names": ["LaTeXZeta"],
       "releases": [
         {
           "sublime_text": "*",
@@ -137,19 +138,9 @@
       ]
     },
     {
-      "name": "SendTextPlus",
-      "details": "https://github.com/randy3k/SendTextPlus",
-      "previous_names": ["SendText+"],
-      "releases": [
-        {
-          "sublime_text": ">3000",
-          "tags": true
-        }
-      ]
-    },
-    {
       "name": "SendREPL",
       "details": "https://github.com/randy3k/SendREPL",
+      "previous_names": ["SendText+", "SendTextPlus"],
       "releases": [
         {
           "sublime_text": ">3000",
