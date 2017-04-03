@@ -137,9 +137,9 @@
       ]
     },
     {
-      "name": "SendREPL",
-      "details": "https://github.com/randy3k/SendREPL",
-      "previous_names": ["SendText+", "SendTextPlus"],
+      "name": "SendCode",
+      "details": "https://github.com/randy3k/SendCode",
+      "previous_names": ["SendText+", "SendTextPlus", "SendREPL"],
       "releases": [
         {
           "sublime_text": ">3000",
