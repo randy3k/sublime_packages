@@ -141,6 +141,16 @@
       ]
     },
     {
+      "name": "RemoteSubl",
+      "details": "https://github.com/randy3k/RemoteSubl",
+      "releases": [
+        {
+          "sublime_text": ">3000",
+          "tags": true
+        }
+      ]
+    },
+    {
       "name": "SendCode",
       "details": "https://github.com/randy3k/SendCode",
       "previous_names": ["SendTextPlus", "SendREPL"],
