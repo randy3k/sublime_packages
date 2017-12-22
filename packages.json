@@ -189,12 +189,12 @@
     }, 
     {
       "name": "UnitTesting",
-      "details": "https://github.com/randy3k/UnitTesting",
+      "details": "https://github.com/SublimeText/UnitTesting",
       "releases": [
         {
           "sublime_text": "<3000",
           "version": "0.10.6",
-          "url": "https://codeload.github.com/randy3k/UnitTesting/zip/0.10.6",
+          "url": "https://codeload.github.com/SublimeText/UnitTesting/zip/0.10.6",
           "date": "2017-07-28 00:00:00"
         },        
         {
