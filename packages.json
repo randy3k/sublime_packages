@@ -135,13 +135,13 @@
           "date": "2015-12-17 00:00:00"
         },
         {
-          "sublime_text": "3103 - 3155",
-          "version": "3.5.12",
-          "url": "https://codeload.github.com/randy3k/R-Box/zip/3.5.12",
-          "date": "2017-11-25 00:00:00"
+          "sublime_text": "3103 - 3175",
+          "version": "3.5.15",
+          "url": "https://codeload.github.com/randy3k/R-Box/zip/3.5.15",
+          "date": "2018-04-21 00:00:00"
         },
         {
-          "sublime_text": ">=3156",
+          "sublime_text": ">=3176",
           "tags": true
         }
       ]
