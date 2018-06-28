@@ -184,7 +184,7 @@
       "releases": [
         {
           "sublime_text": ">=3000",
-          "tag": true
+          "tags": true
         }
       ]
     },
