@@ -180,7 +180,7 @@
     {
       "name": "Terminus",
       "details": "https://github.com/randy3k/Terminus",
-      "labels": ["Terminal", "Shell", "Bash", "Zsh", "WSL", "CMD", "PowerShell"],
+      "labels": ["terminal", "shell", "bash", "zsh", "wsl", "cmd", "powershell"],
       "author": "randy3k",
       "releases": [
         {
