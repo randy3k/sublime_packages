@@ -63,6 +63,15 @@
       ]
     },
     {
+      "details": "https://github.com/randy3k/GitHubBuildStatus",
+      "releases": [
+        {
+          "sublime_text": ">=3000",
+          "tags": true
+        }
+      ]
+    }, 
+    {
       "details": "https://github.com/randy3k/GitStatusBar",
       "releases": [
         {
@@ -180,7 +189,7 @@
     {
       "name": "Terminus",
       "details": "https://github.com/randy3k/Terminus",
-      "labels": ["terminal", "shell", "bash", "zsh", "wsl", "cmd", "powershell"],
+      "labels": ["terminal", "shell", "bash", "zsh", "wsl", "cmd", "powershell", "terminalview"],
       "author": "randy3k",
       "releases": [
         {
