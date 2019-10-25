@@ -63,7 +63,8 @@
       ]
     },
     {
-      "details": "https://github.com/randy3k/GitHubBuildStatus",
+      "details": "https://github.com/randy3k/GitHubChecks",
+      "previous_names": ["GitHubBuildStatus"],
       "releases": [
         {
           "sublime_text": ">=3000",
