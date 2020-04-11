@@ -222,7 +222,13 @@
       "details": "https://github.com/randy3k/UnicodeCompletion",
       "releases": [
         {
-          "sublime_text": ">=3000",
+          "sublime_text": "<4000",
+          "version": "2.1.4",
+          "url": "https://codeload.github.com/randy3k/UnicodeCompletion/zip/v2.1.4",
+          "date": "2017-08-25 00:00:00"
+        },        
+        {
+          "sublime_text": ">=4000",
           "tags": true
         }
       ]
