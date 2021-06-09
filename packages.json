@@ -171,11 +171,17 @@
     {
       "name": "R-IDE",
       "author": "randy3k",
-      "labels": ["r", "lsp", "rstudio"],
+      "labels": ["r", "rstudio"],
       "details": "https://github.com/REditorSupport/sublime-ide-r",
       "releases": [
         {
-          "sublime_text": ">3000",
+          "sublime_text": "<4000",
+          "version": "0.2.7",
+          "url": "https://codeload.github.com/REditorSupport/sublime-ide-r/zip/v0.2.7",
+          "date": "2012-03-25 00:00:00"
+        },        
+        {
+          "sublime_text": ">=4000",
           "tags": true
         }
       ]
