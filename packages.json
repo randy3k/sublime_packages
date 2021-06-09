@@ -113,7 +113,13 @@
       "previous_names": ["LaTeXZeta"],
       "releases": [
         {
-          "sublime_text": "*",
+          "sublime_text": "<4000",
+          "version": "0.1.15",
+          "url": "https://codeload.github.com/randy3k/LaTeXYZ/zip/0.1.15",
+          "date": "2020-10-25 00:00:00"
+        },        
+        {
+          "sublime_text": ">=4000",
           "tags": true
         }
       ]
