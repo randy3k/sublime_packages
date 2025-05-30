@@ -179,9 +179,15 @@
           "version": "0.2.7",
           "url": "https://codeload.github.com/REditorSupport/sublime-ide-r/zip/v0.2.7",
           "date": "2012-03-25 00:00:00"
+        },
+        {
+          "sublime_text": "<4200",
+          "version": "0.2.10",
+          "url": "https://codeload.github.com/REditorSupport/sublime-ide-r/zip/v0.2.10",
+          "date": "2021-10-19 00:00:00"
         },        
         {
-          "sublime_text": ">=4000",
+          "sublime_text": ">=4200",
           "tags": true
         }
       ]
